@@ -24,6 +24,8 @@ Additional languages are planned for future versions.
 - **Vorgefertigte DNS-Profile** (z. B. Google, Cloudflare, AdGuard) enthalten
 - **Eigene Profile speichern, laden und löschen**
 - **Adapterinformationen anzeigen** (inkl. IP, MAC, DNS-Adressen)
+- **Erweiterter DNS-Test** zur Überprüfung der Erreichbarkeit
+- Hinweis zu möglichen Timeouts bei IPv6-DNS aufgrund blockierter Pings
 - **Icon-Integration**: Beim ersten Start wird eine `desktop.ini` erstellt, die das Ordnersymbol automatisch anpasst
 - **Portabel** – keine Installation erforderlich
 - Startet automatisch mit Administratorrechten
@@ -34,6 +36,8 @@ Additional languages are planned for future versions.
 - Includes **predefined DNS profiles** (e.g. Google, Cloudflare, AdGuard)
 - Save, load and delete **custom DNS profiles**
 - **View adapter information** (IP, MAC, DNS addresses)
+- **Extended DNS test** to check reachability
+- Notes that IPv6 DNS timeouts may occur due to blocked ICMP by hosters
 - **Icon integration**: On first start, a `desktop.ini` is created to apply a custom folder icon
 - **Portable** – no installation required
 - Automatically runs with administrative privileges
