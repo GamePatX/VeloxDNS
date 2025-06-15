@@ -25,7 +25,7 @@ Additional languages are planned for future versions.
 - **Eigene Profile speichern, laden und löschen**
 - **Adapterinformationen anzeigen** (inkl. IP, MAC, DNS-Adressen)
 - **Erweiterter DNS-Test** zur Überprüfung der Erreichbarkeit
-- Hinweis zu möglichen Timeouts bei IPv6-DNS aufgrund blockierter Pings
+- ⚠ Hinweis: IPv6-DNS-Adressen können unter Umständen als **nicht erreichbar (Timeout)** gemeldet werden, obwohl sie tatsächlich erreichbar sind. Einige Hoster blockieren ICMPv6-Pings aus Sicherheitsgründen – dies ist kein Fehler der App.
 - **Icon-Integration**: Beim ersten Start wird eine `desktop.ini` erstellt, die das Ordnersymbol automatisch anpasst
 - **Portabel** – keine Installation erforderlich
 - Startet automatisch mit Administratorrechten
@@ -37,7 +37,7 @@ Additional languages are planned for future versions.
 - Save, load and delete **custom DNS profiles**
 - **View adapter information** (IP, MAC, DNS addresses)
 - **Extended DNS test** to check reachability
-- Notes that IPv6 DNS timeouts may occur due to blocked ICMP by hosters
+- ⚠ Note: IPv6 DNS servers may occasionally return a **timeout** despite being reachable. This is due to some providers blocking ICMPv6 pings for security reasons – this is not a bug in the application.
 - **Icon integration**: On first start, a `desktop.ini` is created to apply a custom folder icon
 - **Portable** – no installation required
 - Automatically runs with administrative privileges
