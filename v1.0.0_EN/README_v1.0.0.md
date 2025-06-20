@@ -1,13 +1,3 @@
-### 🇩🇪 Deutsch  
-⚠️ **Hinweis:**  
-Das Programm ist derzeit **nur in deutscher Sprache** verfügbar.  
-Weitere Sprachen sind für zukünftige Versionen geplant.
-
-### 🇬🇧 English  
-⚠️ **Note:**  
-The application is currently available **in German only**.  
-Additional languages are planned for future versions.
-
 # VeloxDNS
 
 **VeloxDNS** ist ein portables Windows-Tool zur schnellen und komfortablen Änderung von DNS-Servern. Es unterstützt sowohl IPv4- als auch IPv6-Adressen und bietet eine moderne, intuitive Benutzeroberfläche – ganz ohne Installation.
