@@ -53,8 +53,8 @@ Other Windows versions are not officially tested.
 1. Adapter auswählen (oder „Alle Adapter“ wählen)
 2. DNS-Adressen (IPv4 / IPv6) eingeben
 3. Auf **„Setzen“** klicken, um die DNS-Einstellungen zu übernehmen
-4. Zum Zurücksetzen auf DHCP: **„Automatisch“** klicken
-5. Unter dem Tab **„Eigene Profile“** können DNS-Kombinationen gespeichert, geladen und gelöscht werden
+4. Zum Zurücksetzen auf DHCP: **„Zurücksetzen“** klicken
+5. Unter dem Tab **„Profile“** können DNS-Kombinationen gespeichert, geladen und gelöscht werden
 
 ### 🇬🇧 English
 
