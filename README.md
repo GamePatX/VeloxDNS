@@ -61,8 +61,8 @@ Other Windows versions are not officially tested.
 1. Select an adapter (or choose "All Adapters")
 2. Enter DNS addresses (IPv4 / IPv6)
 3. Click **“Set”** to apply the settings
-4. Click **“Automatic”** to reset DNS to DHCP
-5. Under the **"Custom Profiles"** tab, save, load and delete your own DNS setups
+4. Click **“rewind”** to reset DNS to DHCP
+5. Under the **"rofile"** tab, save, load and delete your own DNS setups
 
 ---
 
