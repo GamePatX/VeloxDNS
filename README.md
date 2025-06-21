@@ -79,6 +79,61 @@ This project is licensed under the **MIT License**.
 
 ---
 
+## 📦 Verwendete Drittanbieter-Bibliotheken / Third-Party Libraries
+
+### 🇩🇪 Deutsch  
+Dieses Projekt verwendet quelloffene Bibliotheken von Drittanbietern, die unter ihren jeweiligen Lizenzen stehen.  
+Bitte beachte, dass jede dieser Bibliotheken ihren eigenen Lizenzbedingungen unterliegt.  
+
+### 🇬🇧 English  
+This project uses open-source third-party libraries, each subject to its own license.  
+Please note that each library retains its respective licensing terms.
+
+---
+
+### 📘 [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)
+
+- **Autor / Author**: James Newton-King  
+- **Lizenz / License**: [MIT License](https://github.com/JamesNK/Newtonsoft.Json/blob/master/LICENSE.md)  
+
+- **🇩🇪 Beschreibung**:  
+  Bibliothek zum Serialisieren und Deserialisieren von JSON-Daten in .NET-Projekten.
+
+- **🇬🇧 Description**:  
+  Library for serializing and deserializing JSON data in .NET projects.
+
+---
+
+### 🎨 WPF User Interface (Standard Microsoft WPF)
+
+- **Autor / Author**: Microsoft  
+- **Lizenz / License**: Teil des .NET Frameworks – [Lizenzinformationen](https://licenses.nuget.org/MIT)  
+
+- **🇩🇪 Beschreibung**:  
+  Die Benutzeroberfläche basiert vollständig auf dem offiziellen WPF-Framework von Microsoft.  
+  Es wurden keine externen UI-Bibliotheken wie MahApps oder MaterialDesign verwendet.
+
+- **🇬🇧 Description**:  
+  The user interface is built entirely on Microsoft’s official WPF framework.  
+  No external UI libraries such as MahApps or MaterialDesign have been used.
+
+---
+
+## ⚖️ Lizenzhinweis / License Notice
+
+### 🇩🇪 Deutsch  
+Dieses Projekt steht unter der **MIT-Lizenz** (siehe [LICENSE.md](./LICENSE.md)).  
+Alle eingebundenen Drittanbieter-Komponenten behalten ihre jeweiligen Urheberrechte und Lizenzbedingungen.  
+Die jeweilige Lizenz gilt **nur für die entsprechende Komponente**, nicht für das gesamte Projekt.
+
+### 🇬🇧 English  
+This project is licensed under the **MIT License** (see [LICENSE.md](./LICENSE.md)).  
+All third-party libraries used retain their respective copyrights and licensing terms.  
+Each license applies **only to its respective component**, not the entire project.
+
+
+---
+
 ## ❓ FAQ – Häufig gestellte Fragen
 
 ### 🇩🇪 Deutsch
