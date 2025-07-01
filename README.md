@@ -1,19 +1,3 @@
-> ⚠️ **Wichtiger Sicherheitshinweis / Important Security Notice** ⚠️  
->
-> ### 🇩🇪 Deutsch  
-> Bitte lade **VeloxDNS ausschließlich über dieses offizielle Repository herunter**.  
-> Es existiert eine inoffizielle Kopie von einem Nutzer namens [`christianlokela`](https://github.com/christianlokela), die unter dem Namen „VeloxDNS v3.0“ veröffentlicht wurde.  
-> Diese Version enthält **schädliche Inhalte (Trojaner)**, öffnet **keine DNS-Oberfläche** und dient offenbar der Täuschung.  
-> **Lade dort bitte nichts herunter.**
->
-> ### 🇬🇧 English  
-> Please **download VeloxDNS only from this official repository**.  
-> An unofficial copy by user [`christianlokela`](https://github.com/christianlokela) was released under the name "VeloxDNS v3.0".  
-> This version contains **malicious content (Trojan horse)**, **does not open a proper DNS interface**, and appears to be deceptive in nature.  
-> **Do not download anything from that source.**
-
----
-
 # VeloxDNS
 
 **VeloxDNS** ist ein portables Windows-Tool zur schnellen und komfortablen Änderung von DNS-Servern. Es unterstützt sowohl IPv4- als auch IPv6-Adressen und bietet eine moderne, intuitive Benutzeroberfläche – ganz ohne Installation.
